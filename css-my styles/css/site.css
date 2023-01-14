@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    margin: auto;
+    font-size: 1em;
+    background-color: rgb(188, 248, 225);
+    font-style: italic;
+}
+h1{
+    color: rgb(0, 255, 106);
+}  
+h2{
+    font-family: 'Playfair Display', serif ;
+    color: black; 
+}
+h3{
+    font-family: 'Playfair Display', serif ;
+  color: black; 
+  
+}
+.top-container{
+    position: relative;
+    background-color: aquamarine;
+    font-size: 2.5em;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: rgb(188, 248, 225);
+}
+.bottom-container{
+    background-color: rgb(188, 248, 225);
+    margin:auto;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    bottom: 300px;
+    left: 300px;
+    position: absolute;
+}
+.twitter{
+    size: 50px;
+}
